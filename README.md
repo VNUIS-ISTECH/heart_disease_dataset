@@ -41,3 +41,9 @@ Each attribute is a potential risk factor. There are both demographic, behaviora
 
 **Predict variable (desired target)**
 - 10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”)
+
+
+About this file
+http://www.who.int/mediacentre/factsheets/fs317/en/
+Data Source References
+https://github.com/VNUIS-ISTECH/heart_disease_dataset
